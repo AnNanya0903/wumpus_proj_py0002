@@ -65,5 +65,3 @@ wumpus-world/
 * Implementing **decision-making algorithms** based on percepts.
 * Experimenting with **safe exploration strategies** in uncertain environments.
 
-
-Do you want me to do that?
